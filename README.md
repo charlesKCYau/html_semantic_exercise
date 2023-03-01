@@ -1,1 +1,2 @@
-# html_sementic_exercise
+# html_semantic_exercise
+Starting at the index.html
